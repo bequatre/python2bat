@@ -1,9 +1,3 @@
-bachiller = 0
-general = 0
-optativa1 = 0
-optativa2 = 0
-p1 = 0
-p2 = 0
 nota_medicina = 12.61
 
 def calcularNota(bachiller, general, optativa1, optativa2, p1, p2):
